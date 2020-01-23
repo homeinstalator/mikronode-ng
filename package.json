@@ -39,7 +39,8 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "private-parts": "^0.4.1"
+    "private-parts": "^0.4.1",
+    "iconv-lite": "^0.5.1"
   },
   "optionalDependencies": {
     "es6-promise": "^3.0.2",
